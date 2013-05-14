@@ -114,7 +114,7 @@ style: |
 ![Fulltime Business Developer](pictures/fulltime.jpg)
 
 {:.footnote.note}
-Poster from movie [“Fulltime Killer”](http://www.imdb.com/media/rm2355469568/tt0286635)
+Poster from movie ["Fulltime Killer"](http://www.imdb.com/media/rm2355469568/tt0286635)
 
 
 ## **兩個重點**
