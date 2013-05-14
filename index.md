@@ -96,7 +96,7 @@ style: |
 
 <h3>你所不知道的前端優勢</h3>
 
-*xdite <xdite@rocodev.com>*
+
 
 ![](pictures/cover-roco.jpg)
 
